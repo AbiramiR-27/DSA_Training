@@ -13,7 +13,7 @@ Repository tracking Data Structures and Algorithms (DSA) training progress, incl
 | **Day 03** | Time & Space Complexity Analysis, Fibonacci, Pairs, Frequency | 2 | 5 |
 | **Day 04** | Two Pointer Technique, Array Reversal, Rotations & Rearrangements | 5 | 8 |
 | **Day 05** | ASCII Conversions, Element Removal & Shifting, Move Zeroes, Sorted Check | 2 | 2 |
-| **Day 06** | Hash Maps / Dictionaries, Frequency Counting, Duplicates, Non-Repeating Elements | 3 | In Progress |
+| **Day 06** | Hash Maps / Dictionaries, Frequency Counting, Duplicates, Non-Repeating Elements | 3 | 5 |
 
 ---
 
@@ -68,4 +68,9 @@ DSA_tracker/
     │   ├── 01_move_zeroes.py
     │   └── 02_check_if_array_is_sorted.py
     └── day_06/
+        ├── 219ContainsDuplicateII.py
+        ├── 442FindAllDuplicatesinanArray.py
+        ├── 1207UniqueNumberofOccurrences.py
+        ├── 1748SumofUniqueElements.py
+        └── 2956FindCommonElementsBetweenTwoArrays.py
 ```
