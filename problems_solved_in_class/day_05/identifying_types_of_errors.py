@@ -1,0 +1,3 @@
+"""
+Identifying types of errors
+"""

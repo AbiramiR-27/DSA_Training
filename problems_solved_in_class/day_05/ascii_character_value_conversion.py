@@ -1,0 +1,3 @@
+"""
+ASCII character / value conversion
+"""
