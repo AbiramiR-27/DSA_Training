@@ -17,3 +17,16 @@ print(count_freq(n))
   
 n = input()
 print(count_freq(n))'''
+
+'''def occ(arr,n):
+    count=0
+    for i in arr:
+        if i == n:
+            count+=1
+    return count
+
+try:
+    n=input()
+    print(occ('helllo',n))
+except:
+    print('enter a valid input')'''
