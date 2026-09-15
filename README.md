@@ -1,36 +1,49 @@
 # DSA Training Tracker
 
-Repository structure for DSA Training tracking class problems and home assignments organized by day.
+Repository tracking Data Structures and Algorithms (DSA) training progress, including class problems and homework assignments organized by day.
 
 ---
 
-## Folder Structure
+## 📊 Overview
+
+| Day | Topics Covered | Class Problems | Home Assignments |
+| :--- | :--- | :---: | :---: |
+| **Day 01** | Array Basics, Min/Max, Odd/Even Averages, Largest & Second Largest | 3 | 1 |
+| **Day 02** | Sets & Hashing Basics, Attendance & Unique IDs | 1 | 1 |
+| **Day 03** | Time & Space Complexity Analysis, Fibonacci, Pairs, Frequency | 2 | 5 |
+| **Day 04** | Two Pointer Technique, Array Reversal, Rotations & Rearrangements | 5 | 8 |
+| **Day 05** | ASCII Conversions, Element Removal & Shifting, Move Zeroes, Sorted Check | 2 | 2 |
+| **Day 06** | Hash Maps / Dictionaries, Frequency Counting, Duplicates, Non-Repeating Elements | 3 | In Progress |
+
+---
+
+## 📁 Folder Structure
 
 ```text
 DSA_tracker/
 ├── problems_solved_in_class/
 │   ├── day_01/
-│   │   ├── average_of_odd_and_even_numbers.py
 │   │   ├── array_min_max.py
+│   │   ├── average_of_odd_and_even_numbers.py
 │   │   └── first_and_second_largest.py
 │   ├── day_02/
 │   │   └── attendance_marker.py
 │   ├── day_03/
-│   │   ├── time_complexity_examples.py
-│   │   └── fibonacci_time_space_complexity.py
+│   │   ├── fibonacci_time_space_complexity.py
+│   │   └── time_complexity_examples.py
 │   ├── day_04/
 │   │   ├── first_last_occurrence_two_pointer.py
 │   │   ├── reverse_array.py
 │   │   ├── reverse_array_two_pointer.py
 │   │   ├── rotate_array_left.py
 │   │   └── rotate_array_right_negative_indexing.py
-│   └── day_05/
-│       ├── array_memory_address_calculation.py
-│       ├── ascii_character_value_conversion.py
-│       ├── identifying_types_of_errors.py
-│       ├── first_occurrence_search_removal_shifting.py
-│       ├── comparing_array_and_linked_list_operations.py
-│       └── insertion_deletion_time_complexity.py
+│   ├── day_05/
+│   │   ├── ascii_character_value_conversion.py
+│   │   └── first_occurrence_search_removal_shifting.py
+│   └── day_06/
+│       ├── contains_duplicate.py
+│       ├── count _freq_of_every_element.py
+│       └── non_repeating_element.py
 └── problems_to_be_solved_in_home/
     ├── day_01/
     │   └── input_output_format_and_validation.py
@@ -51,7 +64,8 @@ DSA_tracker/
     │   ├── 06_rearrange_array_alternately.py
     │   ├── 07_rearrange_array_arr_i_equals_i.py
     │   └── 08_rearrange_array_o1_extra_space.py
-    └── day_05/
-        ├── 01_move_zeroes.py
-        └── 02_check_if_array_is_sorted.py
+    ├── day_05/
+    │   ├── 01_move_zeroes.py
+    │   └── 02_check_if_array_is_sorted.py
+    └── day_06/
 ```
