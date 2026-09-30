@@ -8,8 +8,7 @@ class Solution(object):
         for word in strs:
 
             key = ''.join(sorted(word))
-            print(sorted(word))
-            print(key)
+
             if key not in groups:
                 groups[key] = []
 

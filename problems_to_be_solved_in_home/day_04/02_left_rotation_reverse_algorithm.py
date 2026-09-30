@@ -1,7 +1,7 @@
 """
 2) Left rotation using reverse algorithm
 """
-def rotateArr(self, arr, d):
+def rotateArr(arr, d):
     n = len(arr)
     d = d % n
     if d == 0:
@@ -12,9 +12,11 @@ def rotateArr(self, arr, d):
             start += 1
             end -= 1
     reverse(0, d - 1)
+    print(arr)
     reverse(d, n - 1)
+    print(arr)
     reverse(0, n - 1)
-
+    print(arr)
     return arr
 
 
