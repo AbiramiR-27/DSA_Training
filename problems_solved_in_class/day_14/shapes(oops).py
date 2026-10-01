@@ -56,4 +56,13 @@ if __name__ == "__main__":
     
     
     
-    
+
+'''Rectangle Area: 12.00
+Rectangle Perimeter: 14.00
+Square Area: 16.00
+Square Perimeter: 16.00
+Triangle Area: 6.00
+Triangle Perimeter: 9.00
+Circle Area: 28.27
+Circle Perimeter: 18.85
+'''    
